@@ -1,8 +1,7 @@
 # tiwuofficial
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tiwuofficial&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiwuofficial&layout=compact)
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tiwuofficial&count_private=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwuofficial&layout=compact&theme=radical" />
 
 ## Product
 
