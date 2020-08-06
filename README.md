@@ -1,6 +1,6 @@
-<div style="display:flex; justify-content:space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=tiwuofficial&count_private=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwuofficial&layout=compact&theme=radical" />
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=tiwuofficial&count_private=true&theme=algolia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwuofficial&layout=compact&theme=algolia" />
 </div>
 
 # Product
