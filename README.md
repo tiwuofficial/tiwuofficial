@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiwuofficial&layout=compact&theme=algolia" />
 </div>
 
-# Product
+# Products
 
 ## Enjoy SFV More
 
@@ -14,7 +14,6 @@ https://enjoy-sfv-more.com
 
 ### En
 https://enjoy-sfv-more.com/en
-
 
 ## Holy Place Photo
 
@@ -27,3 +26,10 @@ https://tiwu.hatenablog.com
 # Speakerdeck
 
 https://speakerdeck.com/tiwu_dev
+
+# Zenn
+https://zenn.dev/tiwu_dev
+
+# Qiita
+
+https://qiita.com/tiwu_dev
