@@ -17,7 +17,10 @@ https://enjoy-sfv-more.com/en
 
 ## Holy Place Photo
 
-https://www.holy-place-photo.com/
+
+![icon](https://holy-place-photo.com/_next/image?url=%2Fimg%2Flogo_text.png&w=256&q=100)
+
+https://holy-place-photo.com/
 
 # Blog
 
