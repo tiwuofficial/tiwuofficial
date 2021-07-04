@@ -7,7 +7,7 @@
 
 ## Enjoy SFV More
 
-![icon](https://enjoy-sfv-more.com/src/img/hero-logo.png)
+![icon](https://enjoy-sfv-more.com/img/hero-logo.png)
 
 ### Ja
 https://enjoy-sfv-more.com
